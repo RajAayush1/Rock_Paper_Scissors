@@ -1,5 +1,5 @@
 # Rock_Paper_Scissors
-Developed the game of Rock-Paper-Scissors using a pre-trained neural network (Squeezenet). This game is to be played between the User and the Computer
+Developed the game of Rock-Paper-Scissors using a pre-trained neural network (SqueezeNet). This game is to be played between the User and the Computer
 
 1. Two python programs were used to execute this project.
 2. 'gather.py' file uses OpenCV to collect the training data.
